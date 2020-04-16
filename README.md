@@ -1,0 +1,2 @@
+# olawale_abdulrasheed_olamide
+consider a dataset with multiple feature these features are related one way or another this relation wed refer to as weight u now we will be using the fuction to predict our y (probability) value the problem is getting the best weights what do we do we cant brute force our way through baby therefore we use gradient descent as the name suggest we descend gradually using loss function after getting our best weights we use this to predict our target
